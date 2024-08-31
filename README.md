@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="158" src="imgflip.com/gif/8qrfba"  />
+<!--   <img height="158" src="imgflip.com/gif/8qrfba"  /> -->
 </div>
 
 ###
@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-<!--   <img src="https://profile-counter.glitch.me/Grayyy1219/count.svg?"  /> -->
+  <img src="https://profile-counter.glitch.me/Grayyy1219/count.svg?"  />
 </div>
 
 ###
