@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Grayyy1219/count.svg?"  />
+<!--   <img src="https://profile-counter.glitch.me/Grayyy1219/count.svg?"  /> -->
 </div>
 
 ###
